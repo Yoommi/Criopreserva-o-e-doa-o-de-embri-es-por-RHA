@@ -20,3 +20,5 @@ A animação foi baseada em um roteiro fornecido, mas fiz adaptações para melh
 A sincronização de áudio com os personagens foi feita manualmente, ajustando as falas e os movimentos para que ficassem mais naturais dentro do contexto da animação.
 
 O tempo total de criação da animação foi de aproximadamente 6 horas, incluindo a adaptação do roteiro, montagem das cenas, testes com os elementos visuais e sincronização de áudio. O trabalho foi desenvolvido de forma independente, conciliando criatividade com as limitações da versão gratuita da ferramenta.
+
+⚠️ Nota: O vídeo foi exportado com uma qualidade um pouco inferior para se adequar ao limite de tamanho de arquivo do GitHub. A versão original em alta qualidade está disponível sob solicitação.
