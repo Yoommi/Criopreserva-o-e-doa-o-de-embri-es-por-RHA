@@ -18,3 +18,5 @@ O vídeo tem como objetivo explicar, de forma didática, a **técnica RHA aplica
 A animação foi baseada em um roteiro fornecido, mas fiz adaptações para melhorar o ritmo e a clareza visual. Como era minha primeira vez usando o **Animaker**, explorei a ferramenta por conta própria, testando elementos e cenas até chegar ao resultado final.
 
 A sincronização de áudio com os personagens foi feita manualmente, ajustando as falas e os movimentos para que ficassem mais naturais dentro do contexto da animação.
+
+O tempo total de criação da animação foi de aproximadamente 6 horas, incluindo a adaptação do roteiro, montagem das cenas, testes com os elementos visuais e sincronização de áudio. O trabalho foi desenvolvido de forma independente, conciliando criatividade com as limitações da versão gratuita da ferramenta.
